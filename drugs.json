@@ -70,8 +70,6 @@
 
     {"id": 36, "name": "ديكلوفيناك", "english_name": "Diclofenac", "brand_names": ["Voltaren"], "active_ingredient": ["Diclofenac"], "uses": ["Pain relief", "Arthritis"], "side_effects": ["Stomach ulcers", "Nausea"]},
 
-    {"id": 37, "name": "أزيثروميسين", "english_name": "Azithromycin", "brand_names": ["Zithromax"], "active_ingredient": ["Azithromycin"], "uses": ["Bacterial infection"], "side_effects": ["Diarrhea", "Nausea"]},
-
     {"id": 38, "name": "أوميبرازول", "english_name": "Omeprazole", "brand_names": ["Losec", "Prilosec"], "active_ingredient": ["Omeprazole"], "uses": ["GERD", "Stomach ulcer"], "side_effects": ["Headache", "Nausea"]},
 
     {"id": 39, "name": "أموكسيسيلين", "english_name": "Amoxicillin", "brand_names": ["Amoxil"], "active_ingredient": ["Amoxicillin"], "uses": ["Bacterial infection"], "side_effects": ["Rash", "Diarrhea"]},
