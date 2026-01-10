@@ -170,7 +170,279 @@
       "active_ingredient": ["Atorvastatin"],
       "uses": ["خفض مستوى الكوليسترول", "الوقاية من أمراض القلب"],
       "side_effects": ["ألم العضلات", "صداع"]
+    },
+    {
+      "id": 21,
+      "name": "باروكسيتين",
+      "english_name": "Paroxetine",
+      "brand_names": ["Seroxat"],
+      "active_ingredient": ["Paroxetine"],
+      "uses": ["علاج الاكتئاب", "علاج الوسواس القهري", "علاج القلق"],
+      "side_effects": ["غثيان", "زيادة الوزن"]
+    },
+    {
+      "id": 22,
+      "name": "رانيتيدين",
+      "english_name": "Ranitidine",
+      "brand_names": ["Zantac"],
+      "active_ingredient": ["Ranitidine"],
+      "uses": ["علاج الحموضة", "علاج ارتجاع المريء"],
+      "side_effects": ["صداع", "إسهال"]
+    },
+    {
+      "id": 23,
+      "name": "دوكسيسايكلين",
+      "english_name": "Doxycycline",
+      "brand_names": ["Vibramycin"],
+      "active_ingredient": ["Doxycycline"],
+      "uses": ["علاج العدوى البكتيرية", "علاج حب الشباب"],
+      "side_effects": ["حساسية للشمس", "غثيان"]
+    },
+    {
+      "id": 24,
+      "name": "نيفيديبين",
+      "english_name": "Nifedipine",
+      "brand_names": ["Adalat"],
+      "active_ingredient": ["Nifedipine"],
+      "uses": ["علاج ارتفاع ضغط الدم", "علاج الذبحة الصدرية"],
+      "side_effects": ["صداع", "تورم القدمين"]
+    },
+    {
+      "id": 25,
+      "name": "إيبوبروفين أطفال",
+      "english_name": "Ibuprofen Kids",
+      "brand_names": ["Brufen Syrup"],
+      "active_ingredient": ["Ibuprofen"],
+      "uses": ["خفض الحرارة عند الأطفال", "تسكين الألم"],
+      "side_effects": ["اضطراب المعدة", "غثيان"]
+    },
+    {
+      "id": 26,
+      "name": "أتروبين",
+      "english_name": "Atropine",
+      "brand_names": ["Atropine Sulfate"],
+      "active_ingredient": ["Atropine"],
+      "uses": ["توسيع حدقة العين", "علاج بطء ضربات القلب"],
+      "side_effects": ["جفاف الفم", "عدم وضوح الرؤية"]
+    },
+    {
+      "id": 27,
+      "name": "أزيثروميسين",
+      "english_name": "Azithromycin",
+      "brand_names": ["Zithromax"],
+      "active_ingredient": ["Azithromycin"],
+      "uses": ["علاج التهابات الجهاز التنفسي", "علاج التهاب الأذن"],
+      "side_effects": ["إسهال", "غثيان"]
+    },
+    {
+      "id": 28,
+      "name": "كلاريثروميسين",
+      "english_name": "Clarithromycin",
+      "brand_names": ["Klacid"],
+      "active_ingredient": ["Clarithromycin"],
+      "uses": ["علاج التهابات الجهاز التنفسي", "علاج جرثومة المعدة"],
+      "side_effects": ["مذاق مر", "إسهال"]
+    },
+    {
+      "id": 29,
+      "name": "كيتوبروفين",
+      "english_name": "Ketoprofen",
+      "brand_names": ["Profenid"],
+      "active_ingredient": ["Ketoprofen"],
+      "uses": ["تسكين الألم", "علاج الالتهابات"],
+      "side_effects": ["غثيان", "قرحة المعدة"]
+    },
+    {
+      "id": 30,
+      "name": "ميلوكسيكام",
+      "english_name": "Meloxicam",
+      "brand_names": ["Mobic"],
+      "active_ingredient": ["Meloxicam"],
+      "uses": ["علاج الالتهابات", "علاج آلام المفاصل"],
+      "side_effects": ["غثيان", "صداع"]
+    },
+    {
+      "id": 31,
+      "name": "إيسكيرين",
+      "english_name": "Esccerin",
+      "brand_names": ["Esccerin"],
+      "active_ingredient": ["Escitalopram"],
+      "uses": ["علاج القلق", "علاج الاكتئاب"],
+      "side_effects": ["غثيان", "أرق"]
+    },
+    {
+      "id": 32,
+      "name": "إيبيرابريل",
+      "english_name": "Enalapril",
+      "brand_names": ["Renitec"],
+      "active_ingredient": ["Enalapril"],
+      "uses": ["علاج ارتفاع ضغط الدم", "علاج فشل القلب"],
+      "side_effects": ["سعال جاف", "دوخة"]
+    },
+    {
+      "id": 33,
+      "name": "أملوديبين",
+      "english_name": "Amlodipine",
+      "brand_names": ["Norvasc"],
+      "active_ingredient": ["Amlodipine"],
+      "uses": ["علاج ارتفاع ضغط الدم", "علاج الذبحة الصدرية"],
+      "side_effects": ["تورم القدمين", "صداع"]
+    },
+    {
+      "id": 34,
+      "name": "كيتورولاك",
+      "english_name": "Ketorolac",
+      "brand_names": ["Toradol"],
+      "active_ingredient": ["Ketorolac"],
+      "uses": ["تسكين الآلام الشديدة"],
+      "side_effects": ["تقرحات المعدة", "غثيان"]
+    },
+    {
+      "id": 35,
+      "name": "سالبوتامول",
+      "english_name": "Salbutamol",
+      "brand_names": ["Ventolin"],
+      "active_ingredient": ["Salbutamol"],
+      "uses": ["توسيع الشعب الهوائية", "علاج نوبات الربو"],
+      "side_effects": ["ارتجاف", "خفقان"]
+    },
+    {
+      "id": 36,
+      "name": "فيوسيكورت",
+      "english_name": "Fucicort",
+      "brand_names": ["Fucicort"],
+      "active_ingredient": ["Fusidic Acid", "Betamethasone"],
+      "uses": ["علاج الالتهابات الجلدية", "علاج العدوى البكتيرية"],
+      "side_effects": ["تهيج البشرة", "ترقق الجلد"]
+    },
+    {
+      "id": 37,
+      "name": "تريتينوين",
+      "english_name": "Tretinoin",
+      "brand_names": ["Retin-A"],
+      "active_ingredient": ["Tretinoin"],
+      "uses": ["علاج حب الشباب", "تقشير البشرة"],
+      "side_effects": ["احمرار", "تهيج الجلد"]
+    },
+    {
+      "id": 38,
+      "name": "كلورفينيرامين",
+      "english_name": "Chlorpheniramine",
+      "brand_names": ["Piriton"],
+      "active_ingredient": ["Chlorpheniramine"],
+      "uses": ["علاج الحساسية", "علاج الرشح"],
+      "side_effects": ["نعاس", "جفاف الفم"]
+    },
+    {
+      "id": 39,
+      "name": "سودوإيفيدرين",
+      "english_name": "Pseudoephedrine",
+      "brand_names": ["Sudafed"],
+      "active_ingredient": ["Pseudoephedrine"],
+      "uses": ["علاج احتقان الأنف"],
+      "side_effects": ["أرق", "ارتفاع ضغط الدم"]
+    },
+    {
+      "id": 40,
+      "name": "فاموتيدين",
+      "english_name": "Famotidine",
+      "brand_names": ["Pepcid"],
+      "active_ingredient": ["Famotidine"],
+      "uses": ["علاج الحموضة", "علاج القرحة"],
+      "side_effects": ["صداع", "إسهال"]
+    },
+    {
+      "id": 41,
+      "name": "كودين",
+      "english_name": "Codeine",
+      "brand_names": ["Codeine Phosphate"],
+      "active_ingredient": ["Codeine"],
+      "uses": ["تسكين الألم المتوسط", "علاج الكحة"],
+      "side_effects": ["إمساك", "نعاس"]
+    },
+    {
+      "id": 42,
+      "name": "إريثرومايسين",
+      "english_name": "Erythromycin",
+      "brand_names": ["Erythrocin"],
+      "active_ingredient": ["Erythromycin"],
+      "uses": ["علاج التهابات الجهاز التنفسي", "علاج حب الشباب"],
+      "side_effects": ["إسهال", "غثيان"]
+    },
+    {
+      "id": 43,
+      "name": "فالبروات",
+      "english_name": "Valproate",
+      "brand_names": ["Depakine"],
+      "active_ingredient": ["Valproic Acid"],
+      "uses": ["علاج الصرع", "علاج الاضطراب ثنائي القطب"],
+      "side_effects": ["زيادة الوزن", "رعشة"]
+    },
+    {
+      "id": 44,
+      "name": "لاموتريجين",
+      "english_name": "Lamotrigine",
+      "brand_names": ["Lamictal"],
+      "active_ingredient": ["Lamotrigine"],
+      "uses": ["علاج الصرع", "علاج ثنائي القطب"],
+      "side_effects": ["طفح جلدي", "دوخة"]
+    },
+    {
+      "id": 45,
+      "name": "فلوكونازول",
+      "english_name": "Fluconazole",
+      "brand_names": ["Diflucan"],
+      "active_ingredient": ["Fluconazole"],
+      "uses": ["علاج الفطريات", "علاج العدوى المهبلية"],
+      "side_effects": ["صداع", "غثيان"]
+    },
+    {
+      "id": 46,
+      "name": "نافازولين",
+      "english_name": "Naphazoline",
+      "brand_names": ["Naphcon"],
+      "active_ingredient": ["Naphazoline"],
+      "uses": ["قطرة لعلاج احمرار العين", "تخفيف التهيج"],
+      "side_effects": ["لسعة بالعين", "صداع"]
+    },
+    {
+      "id": 47,
+      "name": "توبراميسين",
+      "english_name": "Tobramycin",
+      "brand_names": ["Tobrex"],
+      "active_ingredient": ["Tobramycin"],
+      "uses": ["علاج التهابات العين البكتيرية"],
+      "side_effects": ["حرقان العين", "حساسية"]
+    },
+    {
+      "id": 48,
+      "name": "مورفين",
+      "english_name": "Morphine",
+      "brand_names": ["Morphine Sulfate"],
+      "active_ingredient": ["Morphine"],
+      "uses": ["تسكين الألم الشديد"],
+      "side_effects": ["إمساك", "نعاس"]
+    },
+    {
+      "id": 49,
+      "name": "ديازيبام",
+      "english_name": "Diazepam",
+      "brand_names": ["Valium"],
+      "active_ingredient": ["Diazepam"],
+      "uses": ["علاج القلق", "مرخٍ للعضلات"],
+      "side_effects": ["نعاس", "دوخة"]
+    },
+    {
+      "id": 50,
+      "name": "أوندانسيترون",
+      "english_name": "Ondansetron",
+      "brand_names": ["Zofran"],
+      "active_ingredient": ["Ondansetron"],
+      "uses": ["علاج الغثيان والقيء", "علاج القيء المرتبط بالعلاج الكيماوي"],
+      "side_effects": ["صداع", "إمساك"]
     }
-    
+  ]
+}
+
   ]
 }
