@@ -1,0 +1,361 @@
+[
+  {
+    "id": 1,
+    "drug1": "Panadol",
+    "drug2": "Brufen",
+    "compare_field": "بانادول يحتوي على باراسيتامول مناسب للألم الخفيف والحمى. بروفين يحتوي على إيبوبروفين ومناسب للالتهابات وآلام العظام.",
+    "most_effective": "Brufen"
+  },
+  {
+    "id": 2,
+    "drug1": "Augmentin",
+    "drug2": "Zithromax",
+    "compare_field": "أوجمنتين مضاد واسع المدى مناسب لالتهابات الأسنان والجيوب. زيثروماكس قوي لالتهابات الجهاز التنفسي والالتهابات الصدرية.",
+    "most_effective": "Zithromax"
+  },
+  {
+    "id": 3,
+    "drug1": "Claritin",
+    "drug2": "Aerius",
+    "compare_field": "كلاريتين مضاد هيستامين جيد ولا يسبب نعاس. إريوس أقوى وأسرع في حالات الحساسية الشديدة.",
+    "most_effective": "Aerius"
+  },
+  {
+    "id": 4,
+    "drug1": "Voltaren",
+    "drug2": "Cataflam",
+    "compare_field": "فولتارين تركيزه أعلى ويدوم أطول. كاتافلام أسرع في بداية المفعول.",
+    "most_effective": "Voltaren"
+  },
+  {
+    "id": 5,
+    "drug1": "Gaviscon",
+    "drug2": "Nexium",
+    "compare_field": "جافيسكون مناسب للحموضة المؤقتة. نيكسيوم يعالج ارتجاع المريء بشكل جذري.",
+    "most_effective": "Nexium"
+  },
+
+  {
+    "id": 6,
+    "drug1": "Sinupret",
+    "drug2": "Otrivin",
+    "compare_field": "سينوبريت عشبي يعالج الاحتقان من الجذور. أوتريفين يفتح الأنف سريعًا لكنه لا يستخدم أكثر من 5 أيام.",
+    "most_effective": "Sinupret"
+  },
+  {
+    "id": 7,
+    "drug1": "Buscopan",
+    "drug2": "Coloverin",
+    "compare_field": "بسكوبان سريع لتقلصات المعدة. كولوفيرين مناسب للقولون العصبي طويل المدى.",
+    "most_effective": "Buscopan"
+  },
+  {
+    "id": 8,
+    "drug1": "Zyrtec",
+    "drug2": "Telfast",
+    "compare_field": "زيرتك قد يسبب نعاس لكن فعّال جدًا. تلفاست لا يسبب نعاس وممتاز للحساسية المزمنة.",
+    "most_effective": "Telfast"
+  },
+  {
+    "id": 9,
+    "drug1": "Flagyl",
+    "drug2": "Ciprofloxacin",
+    "compare_field": "فلاجيل ممتاز للطفيليات والقولون العصبي. سيبروفلوكساسين أقوى للالتهابات البكتيرية.",
+    "most_effective": "Ciprofloxacin"
+  },
+  {
+    "id": 10,
+    "drug1": "Cetal",
+    "drug2": "Adol",
+    "compare_field": "كلاهما باراسيتامول للألم الخفيف والحمى لكن أودول أسرع امتصاصًا.",
+    "most_effective": "Adol"
+  },
+
+  {
+    "id": 11,
+    "drug1": "Motilium",
+    "drug2": "Primperan",
+    "compare_field": "موتيليوم ممتاز للارتجاع والانتفاخ. بريمبران أقوى للغثيان والقيء.",
+    "most_effective": "Primperan"
+  },
+  {
+    "id": 12,
+    "drug1": "Dolphin",
+    "drug2": "Ketofan",
+    "compare_field": "دولفين قوي لتسكين الألم الحاد. كيتوفان فعّال لآلام العظام والظهر.",
+    "most_effective": "Dolphin"
+  },
+  {
+    "id": 13,
+    "drug1": "ACC",
+    "drug2": "Mucosolvan",
+    "compare_field": "ACC يذيب البلغم الثقيل. ميوكوسولفان ممتاز للسعال المصاحب للبلغم.",
+    "most_effective": "ACC"
+  },
+  {
+    "id": 14,
+    "drug1": "Xalatan",
+    "drug2": "Timolol",
+    "compare_field": "كلاهما لخفض ضغط العين، لاتانوبروست أقوى تأثيرًا. تيمولول أرخص وخيار جيد للحالات الخفيفة.",
+    "most_effective": "Xalatan"
+  },
+  {
+    "id": 15,
+    "drug1": "Meloxicam",
+    "drug2": "Ibuprofen",
+    "compare_field": "ميلوكسيكام مناسب للالتهابات المزمنة. إيبوبروفين مناسب للآلام الحادة.",
+    "most_effective": "Meloxicam"
+  },
+
+  {
+    "id": 16,
+    "drug1": "Omeprazole",
+    "drug2": "Nexium",
+    "compare_field": "أوميبرازول فعال للحموضة. نيكسيوم أقوى ويدوم لفترة أطول.",
+    "most_effective": "Nexium"
+  },
+  {
+    "id": 17,
+    "drug1": "Panadol Extra",
+    "drug2": "Caffeine tablets",
+    "compare_field": "بانادول إكسترا يحتوي كافيين وباراسيتامول لتحسين التأثير. أقراص الكافيين تعمل كمنبه فقط.",
+    "most_effective": "Panadol Extra"
+  },
+  {
+    "id": 18,
+    "drug1": "Aspirin",
+    "drug2": "Clopidogrel",
+    "compare_field": "الأسبرين مانع للتجلط خفيف. كلوبيدوجريل أقوى ويستخدم بعد الجلطات.",
+    "most_effective": "Clopidogrel"
+  },
+  {
+    "id": 19,
+    "drug1": "Cystone",
+    "drug2": "Rowatinex",
+    "compare_field": "سيستون عشبي جيد لحصوات الكلى. رواتينكس أفضل لتفتيت الحصوات الصغيرة.",
+    "most_effective": "Rowatinex"
+  },
+  {
+    "id": 20,
+    "drug1": "Airfast",
+    "drug2": "Montelukast",
+    "compare_field": "كلاهما للربو التحسسي. مونتيلوكاست هو المادة الأصلية والأقوى.",
+    "most_effective": "Montelukast"
+  },
+
+  {
+    "id": 21,
+    "drug1": "Lacteol Fort",
+    "drug2": "Antinal",
+    "compare_field": "لاكتول فور مفيد للإسهال البكتيري والقولون. أنتينيال مضاد قوي للإسهال.",
+    "most_effective": "Antinal"
+  },
+  {
+    "id": 22,
+    "drug1": "Betadine",
+    "drug2": "Hydrogen Peroxide",
+    "compare_field": "بيتادين مطهر شامل للجروح. بيروكسيد أقل قوة ويستخدم للتنظيف فقط.",
+    "most_effective": "Betadine"
+  },
+  {
+    "id": 23,
+    "drug1": "Xanax",
+    "drug2": "Lexotanil",
+    "compare_field": "زانكس تأثيره سريع وقوي للقلق. ليكزوتانيل تأثيره أهدى وأطول.",
+    "most_effective": "Xanax"
+  },
+  {
+    "id": 24,
+    "drug1": "Cipralex",
+    "drug2": "Prozac",
+    "compare_field": "سيبرالكس ممتاز للقلق والاكتئاب. بروزاك أقوى لرفع المزاج.",
+    "most_effective": "Cipralex"
+  },
+  {
+    "id": 25,
+    "drug1": "Azithromycin",
+    "drug2": "Amoxicillin",
+    "compare_field": "أزيثرومايسين يعمل بجرعات أقل وفعال للجهاز التنفسي. أموكسيسيلين مناسب للالتهابات الخفيفة.",
+    "most_effective": "Azithromycin"
+  },
+
+  {
+    "id": 26,
+    "drug1": "Panadol Cold & Flu",
+    "drug2": "FluStop",
+    "compare_field": "بانادول كولد آند فلو متوازن في تخفيف الأعراض. فلوستوب أقوى للانسداد الأنفي.",
+    "most_effective": "FluStop"
+  },
+  {
+    "id": 27,
+    "drug1": "Voltaren Gel",
+    "drug2": "Fastum Gel",
+    "compare_field": "فولتارين جل أقوى للالتهاب. فاستم جل ممتاز لتسكين الألم السريع.",
+    "most_effective": "Voltaren Gel"
+  },
+  {
+    "id": 28,
+    "drug1": "Insulatard",
+    "drug2": "Lantus",
+    "compare_field": "إنسولاتارد متوسط المفعول. لانتوس طويل المفعول وأكثر ثباتًا.",
+    "most_effective": "Lantus"
+  },
+  {
+    "id": 29,
+    "drug1": "Tramal",
+    "drug2": "Ketorolac",
+    "compare_field": "ترامال مسكن قوي جدًا. كيتورولاك مناسب للألم المتوسط والحاد.",
+    "most_effective": "Tramal"
+  },
+  {
+    "id": 30,
+    "drug1": "B-Complex",
+    "drug2": "Neurobion",
+    "compare_field": "كلاهما فيتامينات ب للأعصاب. نيوروبايون تركيزه أعلى.",
+    "most_effective": "Neurobion"
+  },
+
+  {
+    "id": 31,
+    "drug1": "Fenistil",
+    "drug2": "Calamine Lotion",
+    "compare_field": "فينستيل مضاد هيستامين مباشر. كلامين لوشن يهدئ الجلد فقط.",
+    "most_effective": "Fenistil"
+  },
+  {
+    "id": 32,
+    "drug1": "Magnesium Citrate",
+    "drug2": "Lactulose",
+    "compare_field": "ماغنسيوم ستريت سريع للإمساك الحاد. لاكتيلوز لطيف ومناسب للاستخدام الطويل.",
+    "most_effective": "Magnesium Citrate"
+  },
+  {
+    "id": 33,
+    "drug1": "Vitamin C 1000",
+    "drug2": "Multivitamin",
+    "compare_field": "فيتامين سي يعزز المناعة. مالتي فيتامين أشمل وأكثر فائدة.",
+    "most_effective": "Multivitamin"
+  },
+  {
+    "id": 34,
+    "drug1": "Euthyrox",
+    "drug2": "Thyroxine",
+    "compare_field": "كلاهما لعلاج قصور الغدة الدرقية ولكن يوتيروكس هو الشكل الأكثر استقرارًا.",
+    "most_effective": "Euthyrox"
+  },
+  {
+    "id": 35,
+    "drug1": "Lasix",
+    "drug2": "Aldactone",
+    "compare_field": "لازيكس مدر سريع للبول. الدكتون مناسب لاحتباس السوائل الناتج عن الهرمونات.",
+    "most_effective": "Lasix"
+  },
+
+  {
+    "id": 36,
+    "drug1": "Crestor",
+    "drug2": "Lipitor",
+    "compare_field": "كريستور فعال جدًا في خفض الكوليسترول. ليبيتور ممتاز أيضًا لكنه أضعف قليلاً.",
+    "most_effective": "Crestor"
+  },
+  {
+    "id": 37,
+    "drug1": "Minoxidil",
+    "drug2": "Redensyl",
+    "compare_field": "مينوكسيديل يحفّز نمو الشعر مباشرة. ريدنسيل مستخلص نباتي يحسّن صحة البصيلات.",
+    "most_effective": "Minoxidil"
+  },
+  {
+    "id": 38,
+    "drug1": "Zovirax",
+    "drug2": "Acyclovir",
+    "compare_field": "كلاهما لعلاج الهربس، زوفيراكس التركيبة الأصلية.",
+    "most_effective": "Zovirax"
+  },
+  {
+    "id": 39,
+    "drug1": "Ginkgo Biloba",
+    "drug2": "Omega-3",
+    "compare_field": "جنكو بيلوبا لتحسين الدورة الدموية للمخ. أوميجا 3 لتحسين التركيز والمزاج.",
+    "most_effective": "Omega-3"
+  },
+  {
+    "id": 40,
+    "drug1": "Melatonin",
+    "drug2": "Sedation tablets",
+    "compare_field": "الميلاتونين ينظم النوم طبيعيًا. أقراص التهدئة أقوى لكنها تسبب اعتماد.",
+    "most_effective": "Melatonin"
+  },
+
+  {
+    "id": 41,
+    "drug1": "Bepanthen",
+    "drug2": "Sudocrem",
+    "compare_field": "بيبانثين ممتاز للترطيب والتشققات. سودوكريم قوي للالتهابات الجلدية.",
+    "most_effective": "Sudocrem"
+  },
+  {
+    "id": 42,
+    "drug1": "Fucidin",
+    "drug2": "Fucidin H",
+    "compare_field": "فيوسيدين مضاد بكتيري. فيوسيدين H يحتوي كورتيزون وهو أقوى للالتهابات الجلدية.",
+    "most_effective": "Fucidin H"
+  },
+  {
+    "id": 43,
+    "drug1": "Aerius",
+    "drug2": "Zyrtec",
+    "compare_field": "إريوس أقوى وأطول مفعولًا. زيرتك ممتاز لكنه قد يسبب نعاس.",
+    "most_effective": "Aerius"
+  },
+  {
+    "id": 44,
+    "drug1": "Insulin Aspart",
+    "drug2": "Insulin Lispro",
+    "compare_field": "كلاهما سريع المفعول لكن ليسبرو يبدأ أسرع قليلًا.",
+    "most_effective": "Insulin Lispro"
+  },
+  {
+    "id": 45,
+    "drug1": "Xanax",
+    "drug2": "Ativan",
+    "compare_field": "زانكس أسرع مفعولًا. أتيـفان يدوم أطول.",
+    "most_effective": "Xanax"
+  },
+
+  {
+    "id": 46,
+    "drug1": "Tamiflu",
+    "drug2": "Antiflu",
+    "compare_field": "تاميفلو يعالج الإنفلونزا بالفعل. أنتي فلو يخفف الأعراض.",
+    "most_effective": "Tamiflu"
+  },
+  {
+    "id": 47,
+    "drug1": "Mupirocin",
+    "drug2": "Fucidin",
+    "compare_field": "موبيورسين أقوى للبكتيريا العنقودية. فيوسيدين ممتاز للجروح.",
+    "most_effective": "Mupirocin"
+  },
+  {
+    "id": 48,
+    "drug1": "Tavanic",
+    "drug2": "Ciprofloxacin",
+    "compare_field": "تافانيك أقوى ضد عدوى الجهاز التنفسي. سيبروفلوكساسين فعال لكنه أضعف.",
+    "most_effective": "Tavanic"
+  },
+  {
+    "id": 49,
+    "drug1": "Solaray Zinc",
+    "drug2": "21st Century Zinc",
+    "compare_field": "سولاراى نقاء أعلى وجودة أفضل. زنك 21st سنشري أرخص لكنه أقل امتصاصًا.",
+    "most_effective": "Solaray Zinc"
+  },
+  {
+    "id": 50,
+    "drug1": "Vitamin D3 5000",
+    "drug2": "Vitamin D2",
+    "compare_field": "فيتامين D3 أفضل امتصاصًا وأكثر فعالية من D2.",
+    "most_effective": "Vitamin D3 5000"
+  }
+]
