@@ -441,5 +441,491 @@
       "uses": ["علاج الغثيان والقيء", "علاج القيء المرتبط بالعلاج الكيماوي"],
       "side_effects": ["صداع", "إمساك"]
     }
+    {
+      "id": 47,
+      "name": "نورفلوكساسين",
+      "english_name": "Norfloxacin",
+      "brand_names": ["Noroxin"],
+      "active_ingredient": ["Norfloxacin"],
+      "uses": ["علاج التهابات المسالك البولية"],
+      "side_effects": ["غثيان", "دوخة"]
+    },
+    {
+      "id": 48,
+      "name": "كليندامايسين",
+      "english_name": "Clindamycin",
+      "brand_names": ["Dalacin"],
+      "active_ingredient": ["Clindamycin"],
+      "uses": ["علاج الالتهابات الجلدية", "علاج حب الشباب"],
+      "side_effects": ["إسهال", "طفح جلدي"]
+    },
+    {
+      "id": 49,
+      "name": "كيتوكونازول",
+      "english_name": "Ketoconazole",
+      "brand_names": ["Nizoral"],
+      "active_ingredient": ["Ketoconazole"],
+      "uses": ["علاج الفطريات", "علاج القشرة"],
+      "side_effects": ["حكة", "احمرار البشرة"]
+    },
+    {
+      "id": 50,
+      "name": "برايمبيران",
+      "english_name": "Metoclopramide",
+      "brand_names": ["Primperan"],
+      "active_ingredient": ["Metoclopramide"],
+      "uses": ["علاج الغثيان", "علاج القيء"],
+      "side_effects": ["نعاس", "إسهال"]
+    },
+    {
+      "id": 51,
+      "name": "إندرال",
+      "english_name": "Propranolol",
+      "brand_names": ["Inderal"],
+      "active_ingredient": ["Propranolol"],
+      "uses": ["علاج الرعشة", "علاج القلق", "علاج ضغط الدم"],
+      "side_effects": ["دوخة", "بطء ضربات القلب"]
+    },
+    {
+      "id": 52,
+      "name": "موتيليوم",
+      "english_name": "Domperidone",
+      "brand_names": ["Motilium"],
+      "active_ingredient": ["Domperidone"],
+      "uses": ["علاج الغثيان", "تحسين حركة المعدة"],
+      "side_effects": ["صداع", "جفاف الفم"]
+    },
+    {
+      "id": 53,
+      "name": "سينتروم",
+      "english_name": "Centrum",
+      "brand_names": ["Centrum"],
+      "active_ingredient": ["Multivitamins"],
+      "uses": ["تعويض نقص الفيتامينات"],
+      "side_effects": ["غثيان خفيف"]
+    },
+    {
+      "id": 54,
+      "name": "لورازيبام",
+      "english_name": "Lorazepam",
+      "brand_names": ["Ativan"],
+      "active_ingredient": ["Lorazepam"],
+      "uses": ["علاج القلق", "علاج الأرق"],
+      "side_effects": ["نعاس", "دوخة"]
+    },
+    {
+      "id": 55,
+      "name": "ريسبيريدون",
+      "english_name": "Risperidone",
+      "brand_names": ["Risperdal"],
+      "active_ingredient": ["Risperidone"],
+      "uses": ["علاج الفصام", "علاج الهياج"],
+      "side_effects": ["زيادة الوزن", "دوخة"]
+    },
+    {
+      "id": 56,
+      "name": "ليفوثيروكسين",
+      "english_name": "Levothyroxine",
+      "brand_names": ["Eltroxin"],
+      "active_ingredient": ["Levothyroxine"],
+      "uses": ["علاج قصور الغدة الدرقية"],
+      "side_effects": ["تسارع ضربات القلب", "رجفة"]
+    },
+    {
+      "id": 57,
+      "name": "كلوبيدوجريل",
+      "english_name": "Clopidogrel",
+      "brand_names": ["Plavix"],
+      "active_ingredient": ["Clopidogrel"],
+      "uses": ["منع الجلطات", "توسيع الأوعية الدموية"],
+      "side_effects": ["نزيف بسيط", "صداع"]
+    },
+    {
+      "id": 58,
+      "name": "وارفارين",
+      "english_name": "Warfarin",
+      "brand_names": ["Coumadin"],
+      "active_ingredient": ["Warfarin"],
+      "uses": ["منع الجلطات"],
+      "side_effects": ["نزيف", "كدمات"]
+    },
+    {
+      "id": 59,
+      "name": "أتورنو",
+      "english_name": "Atorvastatin",
+      "brand_names": ["Lipitor"],
+      "active_ingredient": ["Atorvastatin"],
+      "uses": ["خفض الكوليسترول"],
+      "side_effects": ["ألم العضلات"]
+    },
+    {
+      "id": 60,
+      "name": "فيتامين د",
+      "english_name": "Vitamin D3",
+      "brand_names": ["Devarol", "Osteocare"],
+      "active_ingredient": ["Cholecalciferol"],
+      "uses": ["تقوية العظام", "تعزيز المناعة"],
+      "side_effects": ["غثيان", "إمساك"]
+    },
+    {
+      "id": 61,
+      "name": "حديد فيروز",
+      "english_name": "Ferrous Sulfate",
+      "brand_names": ["Ferroglobin", "Ferrotron"],
+      "active_ingredient": ["Ferrous Sulfate"],
+      "uses": ["علاج الأنيميا"],
+      "side_effects": ["إمساك", "براز داكن"]
+    },
+    {
+      "id": 62,
+      "name": "زيرتك",
+      "english_name": "Cetirizine",
+      "brand_names": ["Zyrtec"],
+      "active_ingredient": ["Cetirizine"],
+      "uses": ["علاج الحساسية"],
+      "side_effects": ["نعاس بسيط"]
+    },
+    {
+      "id": 63,
+      "name": "أنفاسول",
+      "english_name": "Ambroxol",
+      "brand_names": ["Mucosolvan"],
+      "active_ingredient": ["Ambroxol"],
+      "uses": ["مذيب للبلغم"],
+      "side_effects": ["غثيان", "إسهال"]
+    },
+    {
+      "id": 64,
+      "name": "إيبانوتين",
+      "english_name": "Phenytoin",
+      "brand_names": ["Epanutin"],
+      "active_ingredient": ["Phenytoin"],
+      "uses": ["علاج الصرع"],
+      "side_effects": ["دوخة", "طفح جلدي"]
+    },
+    {
+      "id": 65,
+      "name": "لورازيدون",
+      "english_name": "Lurasidone",
+      "brand_names": ["Latuda"],
+      "active_ingredient": ["Lurasidone"],
+      "uses": ["علاج اضطراب ثنائي القطب"],
+      "side_effects": ["نعاس", "غثيان"]
+    },
+    {
+      "id": 66,
+      "name": "فينلافاكسين",
+      "english_name": "Venlafaxine",
+      "brand_names": ["Effexor XR"],
+      "active_ingredient": ["Venlafaxine"],
+      "uses": ["علاج القلق", "علاج الاكتئاب"],
+      "side_effects": ["أرق", "غثيان"]
+    },
+    {
+      "id": 67,
+      "name": "بوسبيرون",
+      "english_name": "Buspirone",
+      "brand_names": ["Buspar"],
+      "active_ingredient": ["Buspirone"],
+      "uses": ["علاج القلق"],
+      "side_effects": ["دوخة", "غثيان"]
+    },
+    {
+      "id": 68,
+      "name": "ترامادول",
+      "english_name": "Tramadol",
+      "brand_names": ["Tramal"],
+      "active_ingredient": ["Tramadol"],
+      "uses": ["تسكين الألم المتوسط والشديد"],
+      "side_effects": ["دوخة", "إمساك"]
+    },
+    {
+      "id": 69,
+      "name": "نالوفين",
+      "english_name": "Nalbuphine",
+      "brand_names": ["Nalbuphine"],
+      "active_ingredient": ["Nalbuphine"],
+      "uses": ["تسكين الألم"],
+      "side_effects": ["دوخة", "غثيان"]
+    },
+    {
+      "id": 70,
+      "name": "أتش كورت",
+      "english_name": "Hydrocortisone",
+      "brand_names": ["Hydrocort"],
+      "active_ingredient": ["Hydrocortisone"],
+      "uses": ["علاج الالتهابات الجلدية"],
+      "side_effects": ["احمرار", "ترقق الجلد"]
+    },
+    {
+      "id": 71,
+      "name": "بيتادين",
+      "english_name": "Povidone Iodine",
+      "brand_names": ["Betadine"],
+      "active_ingredient": ["Povidone Iodine"],
+      "uses": ["مطهر للجروح"],
+      "side_effects": ["حرقان بسيط"]
+    },
+    {
+      "id": 72,
+      "name": "لورازيبام",
+      "english_name": "Lorazepam",
+      "brand_names": ["Ativan"],
+      "active_ingredient": ["Lorazepam"],
+      "uses": ["علاج القلق"],
+      "side_effects": ["نعاس", "دوخة"]
+    },
+    {
+      "id": 73,
+      "name": "باراسيتامول حقن",
+      "english_name": "Paracetamol IV",
+      "brand_names": ["Perfalgan"],
+      "active_ingredient": ["Paracetamol"],
+      "uses": ["تسكين الألم", "خفض الحرارة"],
+      "side_effects": ["غثيان"]
+    },
+    {
+      "id": 74,
+      "name": "هايبوتين",
+      "english_name": "Hyoscine Butylbromide",
+      "brand_names": ["Buscopan"],
+      "active_ingredient": ["Hyoscine Butylbromide"],
+      "uses": ["تخفيف التقلصات", "تسكين المغص"],
+      "side_effects": ["جفاف الفم", "دوخة"]
+    },
+    {
+      "id": 75,
+      "name": "أسيتالوبرام",
+      "english_name": "Escitalopram",
+      "brand_names": ["Cipralex"],
+      "active_ingredient": ["Escitalopram"],
+      "uses": ["علاج الاكتئاب", "علاج القلق"],
+      "side_effects": ["غثيان", "أرق"]
+    },
+    {
+      "id": 76,
+      "name": "دولوكستين",
+      "english_name": "Duloxetine",
+      "brand_names": ["Cymbalta"],
+      "active_ingredient": ["Duloxetine"],
+      "uses": ["علاج الاكتئاب", "علاج آلام الأعصاب"],
+      "side_effects": ["غثيان", "جفاف الفم"]
+    },
+    {
+      "id": 77,
+      "name": "ميبفرين",
+      "english_name": "Mebeverine",
+      "brand_names": ["Coloverin"],
+      "active_ingredient": ["Mebeverine"],
+      "uses": ["علاج القولون العصبي"],
+      "side_effects": ["صداع", "غثيان"]
+    },
+    {
+      "id": 78,
+      "name": "دوجماتيل",
+      "english_name": "Sulpiride",
+      "brand_names": ["Dogmatil"],
+      "active_ingredient": ["Sulpiride"],
+      "uses": ["علاج القولون العصبي", "علاج القلق"],
+      "side_effects": ["دوخة", "أرق"]
+    },
+    {
+      "id": 79,
+      "name": "أتش برازول",
+      "english_name": "Pantoprazole",
+      "brand_names": ["Controloc"],
+      "active_ingredient": ["Pantoprazole"],
+      "uses": ["علاج الحموضة", "علاج القرحة"],
+      "side_effects": ["صداع", "غثيان"]
+    },
+    {
+      "id": 80,
+      "name": "هايسين",
+      "english_name": "Hyoscine",
+      "brand_names": ["Buscopan"],
+      "active_ingredient": ["Hyoscine"],
+      "uses": ["تسكين المغص"],
+      "side_effects": ["جفاف الفم", "دوخة"]
+    },
+    {
+      "id": 81,
+      "name": "سيبترين",
+      "english_name": "Cotrimoxazole",
+      "brand_names": ["Septrin"],
+      "active_ingredient": ["Sulfamethoxazole", "Trimethoprim"],
+      "uses": ["علاج العدوى البكتيرية"],
+      "side_effects": ["طفح جلدي", "غثيان"]
+    },
+    {
+      "id": 82,
+      "name": "زينوسين",
+      "english_name": "Ofloxacin",
+      "brand_names": ["Zinoxin"],
+      "active_ingredient": ["Ofloxacin"],
+      "uses": ["علاج العدوى البكتيرية"],
+      "side_effects": ["دوخة", "غثيان"]
+    },
+    {
+      "id": 83,
+      "name": "ليفوسيتريزين",
+      "english_name": "Levocetirizine",
+      "brand_names": ["Xyzal"],
+      "active_ingredient": ["Levocetirizine"],
+      "uses": ["علاج الحساسية"],
+      "side_effects": ["نعاس", "جفاف الفم"]
+    },
+    {
+      "id": 84,
+      "name": "فيوسيدين",
+      "english_name": "Fusidic Acid",
+      "brand_names": ["Fucidin"],
+      "active_ingredient": ["Fusidic Acid"],
+      "uses": ["علاج العدوى الجلدية"],
+      "side_effects": ["حكة", "تهيج"]
+    },
+    {
+      "id": 85,
+      "name": "شتوفين",
+      "english_name": "Diphenhydramine",
+      "brand_names": ["Benadryl"],
+      "active_ingredient": ["Diphenhydramine"],
+      "uses": ["علاج الحساسية", "مضاد للهستامين"],
+      "side_effects": ["نعاس شديد"]
+    },
+    {
+      "id": 86,
+      "name": "فينتولين شراب",
+      "english_name": "Salbutamol Syrup",
+      "brand_names": ["Ventolin"],
+      "active_ingredient": ["Salbutamol"],
+      "uses": ["توسيع الشعب للأطفال"],
+      "side_effects": ["خفقان", "رجفة"]
+    },
+    {
+      "id": 87,
+      "name": "إبيليبسن",
+      "english_name": "Carbamazepine",
+      "brand_names": ["Tegretol"],
+      "active_ingredient": ["Carbamazepine"],
+      "uses": ["علاج الصرع"],
+      "side_effects": ["دوخة", "ازدواج الرؤية"]
+    },
+    {
+      "id": 88,
+      "name": "إل-كارنيتين",
+      "english_name": "L-Carnitine",
+      "brand_names": ["Carnitine"],
+      "active_ingredient": ["L-Carnitine"],
+      "uses": ["تحسين الطاقة", "علاج نقص الكارنيتين"],
+      "side_effects": ["غثيان", "رائحة غريبة للجسم"]
+    },
+    {
+      "id": 89,
+      "name": "زنك",
+      "english_name": "Zinc",
+      "brand_names": ["Zinc"],
+      "active_ingredient": ["Zinc Sulfate"],
+      "uses": ["تعزيز المناعة"],
+      "side_effects": ["غثيان"]
+    },
+    {
+      "id": 90,
+      "name": "أسيكلوفير",
+      "english_name": "Acyclovir",
+      "brand_names": ["Zovirax"],
+      "active_ingredient": ["Acyclovir"],
+      "uses": ["علاج الهربس"],
+      "side_effects": ["صداع", "غثيان"]
+    },
+    {
+      "id": 91,
+      "name": "إدولور",
+      "english_name": "Etodolac",
+      "brand_names": ["Lodine"],
+      "active_ingredient": ["Etodolac"],
+      "uses": ["تسكين الألم", "علاج الالتهاب"],
+      "side_effects": ["صداع", "غثيان"]
+    },
+    {
+      "id": 92,
+      "name": "ليفانور",
+      "english_name": "Levofloxacin",
+      "brand_names": ["Tavanic"],
+      "active_ingredient": ["Levofloxacin"],
+      "uses": ["علاج الالتهابات التنفسية"],
+      "side_effects": ["حساسية للشمس", "دوخة"]
+    },
+    {
+      "id": 93,
+      "name": "سيفوتاكس",
+      "english_name": "Cefotaxime",
+      "brand_names": ["Claforan"],
+      "active_ingredient": ["Cefotaxime"],
+      "uses": ["علاج العدوى الشديدة"],
+      "side_effects": ["إسهال", "طفح"]
+    },
+    {
+      "id": 94,
+      "name": "سيفوبيد",
+      "english_name": "Cefoperazone",
+      "brand_names": ["Cefobid"],
+      "active_ingredient": ["Cefoperazone"],
+      "uses": ["علاج العدوى البكتيرية"],
+      "side_effects": ["إسهال", "غثيان"]
+    },
+    {
+      "id": 95,
+      "name": "سيفازولين",
+      "english_name": "Cefazolin",
+      "brand_names": ["Kefzol"],
+      "active_ingredient": ["Cefazolin"],
+      "uses": ["علاج التهابات العظام", "الوقاية الجراحية"],
+      "side_effects": ["طفح", "إسهال"]
+    },
+    {
+      "id": 96,
+      "name": "ديباكين",
+      "english_name": "Valproate",
+      "brand_names": ["Depakine"],
+      "active_ingredient": ["Valproic Acid"],
+      "uses": ["علاج الصرع"],
+      "side_effects": ["زيادة الوزن", "رجفة"]
+    },
+    {
+      "id": 97,
+      "name": "سيروكويل",
+      "english_name": "Quetiapine",
+      "brand_names": ["Seroquel"],
+      "active_ingredient": ["Quetiapine"],
+      "uses": ["علاج الفصام", "علاج ثنائي القطب"],
+      "side_effects": ["نعاس", "زيادة الوزن"]
+    },
+    {
+      "id": 98,
+      "name": "فينستيل",
+      "english_name": "Dimetindene",
+      "brand_names": ["Fenistil"],
+      "active_ingredient": ["Dimetindene"],
+      "uses": ["علاج الحساسية", "علاج الحكة"],
+      "side_effects": ["نعاس", "جفاف الفم"]
+    },
+    {
+      "id": 99,
+      "name": "نيروبيون",
+      "english_name": "Neurobion",
+      "brand_names": ["Neurobion"],
+      "active_ingredient": ["Vitamin B1", "B6", "B12"],
+      "uses": ["علاج التهاب الأعصاب"],
+      "side_effects": ["غثيان"]
+    },
+    {
+      "id": 100,
+      "name": "أدفيل",
+      "english_name": "Advil",
+      "brand_names": ["Advil"],
+      "active_ingredient": ["Ibuprofen"],
+      "uses": ["تسكين الألم", "خفض الحرارة"],
+      "side_effects": ["قرحة المعدة", "غثيان"]
+    }
   ]
 }
