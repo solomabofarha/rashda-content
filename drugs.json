@@ -926,6 +926,15 @@
       "active_ingredient": ["Ibuprofen"],
       "uses": ["تسكين الألم", "خفض الحرارة"],
       "side_effects": ["قرحة المعدة", "غثيان"]
+    },
+    {
+  "id": 101,
+  "name": "أريبيبرازول",
+  "english_name": "Aripiprazole",
+  "brand_names": ["Abilify"],
+  "active_ingredient": ["Aripiprazole"],
+  "uses": ["علاج الفصام", "علاج الاضطراب ثنائي القطب", "تحسين أعراض الاكتئاب كمساعد"],
+  "side_effects": ["أرق", "قلق", "غثيان", "زيادة طفيفة في الوزن"]
     }
   ]
 }
